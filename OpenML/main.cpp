@@ -11,7 +11,7 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 
-	int threads_count = 2, size = 40000;
+	int threads_count = 2, size = 3;
 	cout << "Квадрантая матрица размером " << size << endl;
 	cout << endl;
 
